@@ -1,2 +1,2 @@
 # data-analysis-sales-dashboard
-![Tampilan Dashboard](dashboard sales.png)
+![Tampilan Dashboard](dashboard%20sales.png)
